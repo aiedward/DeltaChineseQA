@@ -2,12 +2,12 @@
 
 ****** 改寫 https://github.com/HKUST-KnowComp/R-Net 將他移值到delta中文qa的data上 ******
 
-##運行環境
+## 運行環境
 tensorflow 1.4.1(須可以執行cudnnGRU)
 json 2.0.9, jieba 0.39(預設字典)
 numpy 1.14.0
   
-##用法
+## 用法
 
 目錄下有4個bash檔
 

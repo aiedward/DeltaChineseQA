@@ -1,6 +1,7 @@
 # DeltaChineseQA
 
-****** 改寫 https://github.com/HKUST-KnowComp/R-Net 將他移值到delta中文qa的data上 ****** 
+****** 改寫 https://github.com/HKUST-KnowComp/R-Net 將他移值到delta中文qa的data上 ****** <br />
+基本上用微軟亞洲研究院的r_net架構並在最後的pointer net 運行機制的地方進行修改
 
 ## kaggle site
 https://www.kaggle.com/c/ml-2017fall-final-chinese-qa/leaderboard <br />

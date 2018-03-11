@@ -2,7 +2,8 @@
 
 ****** 改寫 https://github.com/HKUST-KnowComp/R-Net 將他移值到delta中文qa的data上 ****** 
 
-https://www.kaggle.com/c/ml-2017fall-final-chinese-qa/leaderboard 比賽的網站<br />
+## kaggle site
+https://www.kaggle.com/c/ml-2017fall-final-chinese-qa/leaderboard 
 比賽的基本概念為給定一段文字，並給定幾個問題，從文字裡面挑選出適當解答的位置，並利用f1 score作為衡量的分數<br />
 
 裡面包含一個pretrain的model，在kaggle上面達到 f1 score : 0.65<br />

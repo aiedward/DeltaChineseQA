@@ -3,9 +3,11 @@
 ****** 改寫 https://github.com/HKUST-KnowComp/R-Net 將他移值到delta中文qa的data上 ****** <br />
 基本上用微軟亞洲研究院的r_net架構並在最後的pointer net 運行機制的地方進行修改
 
+
 ## kaggle site
 https://www.kaggle.com/c/ml-2017fall-final-chinese-qa/leaderboard <br />
 比賽的基本概念為給定一段文字，並給定幾個問題，從文字裡面挑選出適當解答的位置，並利用f1 score作為衡量的分數<br />
+https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf <br />
 
 裡面包含一個pretrain的model，在kaggle上面達到 f1 score : 0.65<br />
 
